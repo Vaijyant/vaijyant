@@ -83,7 +83,7 @@ Oh so you are interested in the source code? Go ahead check it out!
 
 
     <title>Vaijyant Tomar</title>
-    <link rel="shortcut icon" href="../resources/img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="resources/img/favicon.png" type="image/x-icon">
 
     <!-- Bootstrap -->
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -92,12 +92,12 @@ Oh so you are interested in the source code? Go ahead check it out!
     <!-- Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
     <!-- Custom styles -->
-    <link rel="stylesheet" href="../resources/css/styles.css">
+    <link rel="stylesheet" href="resources/css/styles.css">
 
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
     <!--[if lt IE 9]>
-    <script src="../resources/js/html5shiv.js"></script> <![endif]-->
+    <script src="resources/js/html5shiv.js"></script> <![endif]-->
 
     <style>
         blockquote {
@@ -129,7 +129,7 @@ Oh so you are interested in the source code? Go ahead check it out!
 <header id="header">
     <div id="head" class="parallax" parallax-speed="2">
         <h1 id="logo" class="text-center">
-            <img class="img-circle" src="../resources/img/profile.jpg" alt="Vaijyant Tomar">
+            <img class="img-circle" src="resources/img/profile.jpg" alt="Vaijyant Tomar">
             <span class="title">Vaijyant Tomar</span>
             <span class="tagline">Pursuing MS in Computer Science from UNC Charlotte.<br>
 				<a href="mailto:vtomar@uncc.com">vtomar@uncc.edu</a></span>
@@ -152,7 +152,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                     <li><a href="about.html">About</a></li>
                     <li><a href="timeline.html" target="_blank">Timeline</a></li>
                     <li><a href="experiments.html">Experiments</a></li>
-                    <li><a href="../resources/rsc/Resume.pdf" target="_blank">Resume</a></li>
+                    <li><a href="resources/img/favicon.png" target="_blank">Resume</a></li>
                 </ul>
             </div>
             <!--/.nav-collapse -->
@@ -188,7 +188,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/CHBM.html">
 						<span class="img">
-							<img src="../resources/img/CHBM.jpg" alt="">
+							<img src="resources/img/CHBM.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Computational Human Behavior Modeling</span>
@@ -201,7 +201,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/PISP.html">
 						<span class="img">
-							<img src="../resources/img/PISP.jpg" alt="">
+							<img src="resources/img/PISP.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Principles of Information Security & Privacy</span>
@@ -214,7 +214,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/ML.html">
 						<span class="img">
-							<img src="../resources/img/ML.jpeg"
+							<img src="resources/img/ML.jpeg"
                                  alt="Photo by Kevin Ku from Pexels https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
@@ -229,7 +229,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/MAD.html">
 						<span class="img">
-							<img src="../resources/img/MAD.png" alt="">
+							<img src="resources/img/MAD.png" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Mobile Application Development</span>
@@ -242,7 +242,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/IS.html">
 						<span class="img">
-							<img src="../resources/img/IS.jpg" alt="">
+							<img src="resources/img/IS.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Intelligent Systems</span>
@@ -255,7 +255,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/Algos.html">
 						<span class="img">
-							<img src="../resources/img/Algos.jpg" alt="">
+							<img src="resources/img/Algos.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Algorithms & Data Structures</span>
@@ -268,7 +268,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/KDD.html">
 						<span class="img">
-							<img src="../resources/img/KDD.jpeg"
+							<img src="resources/img/KDD.jpeg"
                                  alt="Photo by energepic.com from Pexels https://www.pexels.com/photo/blue-and-yellow-graph-on-stock-market-monitor-159888/">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
@@ -283,7 +283,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/DbS.html">
 						<span class="img">
-							<img src="../resources/img/DbS.png" alt="">
+							<img src="resources/img/DbS.png" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Database Systems</span>
@@ -296,7 +296,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/SPL.html">
 						<span class="img">
-							<img src="../resources/img/SPL.jpg" alt="">
+							<img src="resources/img/SPL.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Survey of Programming Languages</span>
@@ -309,7 +309,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="courses/SSDI.html">
 						<span class="img">
-							<img src="../resources/img/SSDI.png" alt="">
+							<img src="resources/img/SSDI.png" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Software System Design & Specification</span>
@@ -332,7 +332,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="workex/infosys.html">
 						<span class="img">
-							<img src="../resources/img/infosys.jpg" alt="">
+							<img src="resources/img/infosys.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Infosys Ltd.</span>
@@ -355,7 +355,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
                     <a class="thumbnail" href="sidebar-right.html">
 						<span class="img">
-							<img src="../resources/img/Project01.jpg" alt="">
+							<img src="resources/img/Project01.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
 						</span>
                         <span class="title">Copy To Flash</span>
@@ -434,7 +434,7 @@ Oh so you are interested in the source code? Go ahead check it out!
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="../resources/js/template.js"></script>
+<script src="resources/js/template.js"></script>
 </body>
 
 </html>
