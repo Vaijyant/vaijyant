@@ -66,7 +66,6 @@ Oh so you are interested in the source code? Go ahead check it out!
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="Sergey Pozhilov (GetTemplate.com)">
     <!-- Modified by Vaijyant Tomar-->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-103560707-2"></script>
@@ -84,7 +83,7 @@ Oh so you are interested in the source code? Go ahead check it out!
 
 
     <title>Vaijyant Tomar</title>
-    <link rel="shortcut icon" href="resources/img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../resources/img/favicon.png" type="image/x-icon">
 
     <!-- Bootstrap -->
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
