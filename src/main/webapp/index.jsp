@@ -152,7 +152,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                     <li><a href="about.html">About</a></li>
                     <li><a href="timeline.html" target="_blank">Timeline</a></li>
                     <li><a href="experiments.html">Experiments</a></li>
-                    <li><a href="resources/img/favicon.png" target="_blank">Resume</a></li>
+                    <li><a href="resources/rsc/Resume.pdf" target="_blank">Resume</a></li>
                 </ul>
             </div>
             <!--/.nav-collapse -->
