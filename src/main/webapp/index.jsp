@@ -84,7 +84,7 @@ Oh so you are interested in the source code? Go ahead check it out!
 
 
     <title>Vaijyant Tomar</title>
-    <link rel="shortcut icon" href="../resources/img/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="resources/img/favicon.png" type="image/x-icon">
 
     <!-- Bootstrap -->
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
