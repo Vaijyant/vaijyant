@@ -131,8 +131,8 @@ Oh so you are interested in the source code? Go ahead check it out!
         <h1 id="logo" class="text-center">
             <img class="img-circle" src="resources/img/profile.jpg" alt="Vaijyant Tomar">
             <span class="title">Vaijyant Tomar</span>
-            <span class="tagline">Pursuing MS in Computer Science from UNC Charlotte.<br>
-				<a href="mailto:vtomar@uncc.com">vtomar@uncc.edu</a></span>
+            <span class="tagline">MS in Computer Science from UNC Charlotte.<br>
+				<a href="mailto:vtomar@uncc.com">vaijyant.tomar@gmail.com</a></span>
         </h1>
     </div>
 
@@ -353,7 +353,7 @@ Oh so you are interested in the source code? Go ahead check it out!
             <div class="thumbnails recentworks row">
 
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <a class="thumbnail" href="sidebar-right.html">
+                    <a class="thumbnail" href="#">
 						<span class="img">
 							<img src="resources/img/Project01.jpg" alt="">
 							<span class="cover"><span class="more">See details &rarr;</span></span>
@@ -382,7 +382,7 @@ Oh so you are interested in the source code? Go ahead check it out!
                 <h3 class="widget-title">Contact</h3>
                 <div class="widget-body">
                     <p>+1 (980) 938-9851<br>
-                        <a href="mailto:vtomar@uncc.edu">vtomar@uncc.edu</a><br>
+                        <a href="mailto:vaijyant.tomar@gmail.com">vaijyant.tomar@gmail.com</a><br>
                         <br> The University of North Carolina at Charlotte
                     </p>
                 </div>
